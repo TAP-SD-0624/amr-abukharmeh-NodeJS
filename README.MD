@@ -18,5 +18,4 @@
 ## Error Handling : ##
 1. in case file dosen't exist will print "File Doesn't exist"
 2. in case Empty file will print "Empty File"
-3. "File Doesn't exist" might be printed in other async errors
-4. can handle new lines
+3. can handle new lines
